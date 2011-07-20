@@ -26,3 +26,9 @@
 	path = support/gnu-builds
 	url = git://github.com/ajaxorg/gnu-builds.git
 
+[submodule "support/socket.io-client"]
+	path = support/socket.io-client
+	url = https://github.com/ajaxorg/socket.io-client.git
+[submodule "support/uglify-js"]
+	path = support/uglify-js
+	url = https://github.com/ajaxorg/UglifyJS.git
